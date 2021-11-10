@@ -3,7 +3,7 @@
 
 <h3> :man: &nbsp;Sobre mim </h3>
 
-- 🎓 &nbsp; Estudando Desenvolvimento Fullstack com HTML5, CSS3, Javascript, MySql, ReactJS, Webpack
+- 🎓 &nbsp; Estudando Desenvolvimento Fullstack com HTML5, CSS3, Javascript, MySql, C#, ReactJS, Webpack
 - 💼 &nbsp; Trabalhando como Freelancer utilizando HTML5, CSS3 e Javascript
 - 🌱 &nbsp; Aprendendo mais sobre Javascript e ReactJS.
 
@@ -34,6 +34,7 @@
 **Ferramentas de Desenvolvimento**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=8B008B)
 
 <br/>
 
