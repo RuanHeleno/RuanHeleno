@@ -4,8 +4,7 @@
 <h3> :man: &nbsp;Sobre mim </h3>
 
 - 🎓 &nbsp; Estudando Desenvolvimento Fullstack com HTML5, CSS3, Javascript, MySql, C#, ReactJS, Webpack
-- 💼 &nbsp; Trabalhando como Freelancer utilizando HTML5, CSS3 e Javascript
-- 🌱 &nbsp; Aprendendo mais sobre Javascript e ReactJS.
+- 🌱 &nbsp; Focado em ReactJS e Javascript.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
