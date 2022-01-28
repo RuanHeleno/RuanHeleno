@@ -24,7 +24,7 @@
 
 **Projetos**
 
-  [![card](https://github-readme-stats.vercel.app/api/pin/?username=ruanheleno&repo=ruanheleno.github.io)](https://github.com/ruanheleno/)
+  [![card](https://github-readme-stats.vercel.app/api/pin/?username=ruanheleno&repo=ruanheleno.github.io)](https://github.com/RuanHeleno/RuanHeleno.github.io)
 
 **DevOps**
 
