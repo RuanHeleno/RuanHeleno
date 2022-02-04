@@ -47,4 +47,4 @@
 ![](https://komarev.com/ghpvc/?username=RuanHeleno&color=006bed) &nbsp;
 [![GitHub Ruan Heleno]( https://img.shields.io/github/followers/RuanHeleno?label=follow&style=social)](https://github.com/RuanHeleno)
   
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/RuanHeleno/RuanHeleno/blob/output/github-contribution-grid-snake.svg)
