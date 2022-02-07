@@ -1,14 +1,16 @@
 
-# Sejam bem-vindos!
+# Welcome!
 
-## Meu nome é Ruan Heleno
+## My name is Ruan Heleno, but you can call me Ruan :)
 
-### :man: &nbsp;Sobre mim 
+### :man: &nbsp;About me
 
-- 🎓 &nbsp; Estudando Desenvolvimento Front-End com HTML5, CSS3, Javascript, ReactJS e Bootstrap
-- 🌱 &nbsp; Focado em ReactJS e Javascript.
+- 🎓 &nbsp; Studying FrontEnd Development with HTML5, CSS3, Javascript, ReactJS and Bootstrap 5
+- :dart: &nbsp; Focus on ReactJS and Javascript
+- :computer: &nbsp; Programming everyday is necessary
+- :world_map: &nbsp; I love travelling
 
-### :rocket: &nbsp;**Habilidades**
+### :rocket: &nbsp;**Skills**
 
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -19,15 +21,15 @@
   ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 
-### :file_folder: &nbsp;**Projetos**
+### :file_folder: &nbsp;**Projects**
 
   [![card](https://github-readme-stats.vercel.app/api/pin/?username=ruanheleno&repo=ruanheleno.github.io)](https://github.com/RuanHeleno/RuanHeleno.github.io)
 
-### :computer: &nbsp;**Ferramentas de Desenvolvimento**
+### :computer: &nbsp;**Development Tools**
 
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-### :earth_americas: &nbsp;Onde me encontrar
+### :earth_americas: &nbsp;**Where to find me**
 
 [![Linkedin: Ruan Heleno](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ruan-heleno-da-rocha-vieira-753155105/)](https://www.linkedin.com/in/ruan-heleno-da-rocha-vieira-753155105/)
 [![Instagram: Ruan Heleno](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/ruanhelenoof)](https://www.instagram.com/ruanhelenoof)
