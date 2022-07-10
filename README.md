@@ -7,7 +7,7 @@
 
 - 🎓 &nbsp; Studying FrontEnd Development with HTML5, CSS3, Javascript, ReactJS and Bootstrap 5
 - :dart: &nbsp; Focus on ReactJS and Javascript
-- :computer: &nbsp; Programming everyday is necessary
+- :computer: &nbsp; Programming everyday for love
 - :world_map: &nbsp; I love travelling
 
 ### :rocket: &nbsp;**Skills**
