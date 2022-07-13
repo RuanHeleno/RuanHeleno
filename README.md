@@ -1,7 +1,7 @@
 
-# Welcome!
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=30&duration=3500&center=true&vCenter=true&width=1000&lines=Welcome!+:%29)](https://git.io/typing-svg)
 
-## My name is Ruan Heleno, but you can call me Ruan :)
+## My name is Ruan Heleno, but you can call me Ruan.
 
 ### :man: &nbsp;About me
 
