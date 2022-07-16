@@ -5,10 +5,14 @@
 
 ### :man: &nbsp;About me
 
-- 🎓 &nbsp; Studying FrontEnd Development with HTML5, CSS3, Javascript, ReactJS and Bootstrap 5
-- :dart: &nbsp; Focus on ReactJS and Javascript
-- :computer: &nbsp; Programming everyday for love
-- :world_map: &nbsp; I love travelling
+  - 🎓 &nbsp; Studying FrontEnd Development with HTML5, CSS3, Javascript, ReactJS and Bootstrap 5
+  - :dart: &nbsp; Focus on ReactJS and Javascript
+  - :computer: &nbsp; Programming everyday for love
+  - :world_map: &nbsp; I love travelling <br>
+
+  <div align="center">
+    <img src="https://api.daily.dev/devcards/6aeeca3c8b334bc49aeecd9b7757be47.png?r=vul" width="250" alt="Ruan Heleno's Dev Card"/></a>
+  </div>
 
 ### :rocket: &nbsp;**Skills**
 
