@@ -27,7 +27,7 @@
 
 ### :file_folder: &nbsp;**Projects**
 
-  [![card](https://github-readme-stats.vercel.app/api/pin/?username=ruanheleno&repo=ruanheleno.github.io&theme=dracula)](https://github.com/RuanHeleno/RuanHeleno.github.io)
+  [![card](https://github-readme-stats.vercel.app/api/pin/?username=OitaloDev&repo=OitaloDev.github.io&theme=dracula)](https://github.com/RuanHeleno/RuanHeleno.github.io)
 
 ### :computer: &nbsp;**Development Tools**
 
