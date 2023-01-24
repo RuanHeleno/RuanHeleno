@@ -27,7 +27,7 @@
 
 ### :file_folder: &nbsp;**Projects**
 
-  [![card](https://github-readme-stats.vercel.app/api/pin/?username=OitaloDev&repo=OitaloDev.github.io&theme=dracula)](https://github.com/RuanHeleno/RuanHeleno.github.io)
+  [![card](https://github-readme-stats.vercel.app/api/pin/?username=ruanheleno&repo=ruanheleno.github.io&theme=dracula)](https://github.com/RuanHeleno/RuanHeleno.github.io)
 
 ### :computer: &nbsp;**Development Tools**
 
@@ -43,7 +43,7 @@
 
 <div>
   <a href="https://github.com/RuanHeleno">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanheleno&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OitaloDev&layout=compact&langs_count=7&theme=dracula"/>
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ruanheleno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </a>
 </div> 
