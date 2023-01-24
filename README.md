@@ -1,52 +1,36 @@
 
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=30&duration=3500&center=true&vCenter=true&width=1000&lines=Welcome!+:%29)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=30&duration=4000&center=true&vCenter=true&width=1000&lines=Welcome!+:%29)](https://git.io/typing-svg)
 
 ## My name is Ruan Heleno, but you can call me Ruan.
 
+<img align="right" src="https://api.daily.dev/devcards/6aeeca3c8b334bc49aeecd9b7757be47.png?r=vul" width="250" alt="Ruan Heleno's Dev Card"/>
+
 ### :man: &nbsp;About me
 
-  - 🎓 &nbsp; Studying FrontEnd Development with HTML5, CSS3, Javascript, ReactJS and Bootstrap 5
-  - :dart: &nbsp; Focus on ReactJS and Javascript
-  - :computer: &nbsp; Programming everyday for love
-  - :world_map: &nbsp; I love travelling <br>
-
-  <div align="center">
-    <img src="https://api.daily.dev/devcards/6aeeca3c8b334bc49aeecd9b7757be47.png?r=vul" width="250" alt="Ruan Heleno's Dev Card"/></a>
-  </div>
+- 🎓 &nbsp; Studying Fullstack Development in Labenu <br>
+- :dart: &nbsp; Focus on ReactJS and Javascript <br>
+- :computer: &nbsp; Programming everyday for love <br>
+- :world_map: &nbsp; I love travelling <br>
 
 ### :rocket: &nbsp;**Skills**
 
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-  ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,react,mysql,nodejs,ts,webpack,vscode,git,netlify&perline=6)](https://github.com/RuanHeleno)
 
 ### :file_folder: &nbsp;**Projects**
 
-  [![card](https://github-readme-stats.vercel.app/api/pin/?username=ruanheleno&repo=ruanheleno.github.io&theme=dracula)](https://github.com/RuanHeleno/RuanHeleno.github.io)
-
-### :computer: &nbsp;**Development Tools**
-
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+[![card](https://github-readme-stats.vercel.app/api/pin/?username=ruanheleno&repo=ruanheleno.github.io&theme=dracula)](https://github.com/RuanHeleno/RuanHeleno.github.io)
 
 ### :earth_americas: &nbsp;**Where to find me**
 
-[![Linkedin: Ruan Heleno](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ruan-heleno-da-rocha-vieira-753155105/)](https://www.linkedin.com/in/ruan-heleno-da-rocha-vieira-753155105/)
-[![Instagram: Ruan Heleno](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/ruanhelenoof)](https://www.instagram.com/ruanhelenoof)
+[![Linkedin: Ruan Heleno](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ruanheleno/)
+[![Instagram: Ruan Heleno](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ruanhelenoof)
+
+### ✉️ &nbsp;**Contact me**
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ruanheleno.dev@gmail.com)](mailto:ruanheleno.dev@gmail.com)
 
 ### :trophy: &nbsp;Status
-
-<div>
-  <a href="https://github.com/RuanHeleno">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanheleno&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ruanheleno&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  </a>
-</div> 
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ruanheleno&layout=compact&langs_count=6&theme=dracula)](https://github.com/RuanHeleno)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=ruanheleno&show_icons=true&count_private=true&theme=dracula)](https://github.com/RuanHeleno)
  
  <br />
 
