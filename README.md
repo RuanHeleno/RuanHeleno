@@ -16,10 +16,6 @@
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,react,mysql,nodejs,ts,webpack,vscode,git,netlify&perline=6)](https://github.com/RuanHeleno)
 
-### :file_folder: &nbsp;**Projects**
-
-[![card](https://github-readme-stats.vercel.app/api/pin/?username=ruanheleno&repo=ruanheleno.github.io&theme=dracula)](https://github.com/RuanHeleno/RuanHeleno.github.io)
-
 ### :earth_americas: &nbsp;**Where to find me**
 
 [![Linkedin: Ruan Heleno](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ruanheleno/)
