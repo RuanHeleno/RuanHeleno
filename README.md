@@ -25,7 +25,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:ruanheleno.dev@gmail.com)](mailto:ruanheleno.dev@gmail.com)
 
 ### :trophy: &nbsp;Status
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ruanheleno&layout=compact&langs_count=6&theme=dracula)](https://github.com/RuanHeleno)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ruanheleno&layout=compact&langs_count=4&theme=dracula)](https://github.com/RuanHeleno)
 [![Top Langs](https://github-readme-stats.vercel.app/api?username=ruanheleno&show_icons=true&count_private=true&theme=dracula)](https://github.com/RuanHeleno)
  
  <br />
