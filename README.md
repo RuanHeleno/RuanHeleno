@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=30&duration=4000&center=true&vCenter=true&width=1000&lines=Ruan+Heleno+Vieira;Tech+Lead+%26+Backend+Developer+(Python%2FDjango);Building+Scalable+Solutions+with+AI)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00FF00&size=30&duration=10000&center=true&vCenter=true&width=1000&lines=Ruan+Heleno;Tech+Lead+%26+Backend+Developer+(Python%2FDjango);Building+Scalable+Solutions+with+AI)](https://git.io/typing-svg)
 
 ## Hello! My name is Ruan Heleno.
 
@@ -6,7 +6,7 @@
 
 ### :man_technologist: &nbsp;About Me
 
--   🚀 &nbsp; **Tech Lead & Full Stack Developer** at [CADS Digital](https://www.cadsdigital.com.br/), focusing on **Artificial Intelligence** projects.
+-   🚀 &nbsp; **Tech Lead & Full Stack Developer**, focusing on **Artificial Intelligence** projects.
 -   💻 &nbsp; Passionate about **Backend** development with **Python, Django, PostgreSQL**, and building robust environments with **Docker**.
 -   💡 &nbsp; Experienced in **Software Architecture (UML)**, **Automated Testing (Pytest)**, and **CI/CD pipelines (GitHub Actions)**.
 -   👨‍💻 &nbsp; Leading development teams, using **Jira** and **Confluence** for management and documentation.
@@ -16,16 +16,14 @@
 
 ### :rocket: &nbsp;**Main Skills**
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,postgresql,redis,celery,docker,git,github,githubactions,nginx,react,typescript,javascript,html,css,mysql,linux,vscode,jira,confluence,postman&perline=7)](https://skillicons.dev/icons?i=python,django,postgresql,redis,celery,docker,git,github,githubactions,nginx,react,typescript,javascript,html,css,mysql,linux,vscode,jira,confluence,postman)
-<!-- Added Postman, common for APIs. Removed Webpack, Netlify, Sass, Bootstrap as they seem less relevant now -->
+[![My Skills](https://skillicons.dev/icons?i=python,django,postgresql,redis,docker,git,github,githubactions,nginx,react,typescript,javascript,html,css,mysql,linux,vscode,jira,confluence,postman&perline=7)](https://skillicons.dev/icons?i=python,django,postgresql,redis,docker,git,github,githubactions,nginx,react,typescript,javascript,html,css,mysql,linux,vscode,postman)
+<!-- Removed Celery as icon might not be available on skillicons.dev -->
 <!-- Pytest doesn't have a standard icon on skillicons.dev, but it's mentioned in the text -->
 
 ### :earth_americas: &nbsp;**Where to find me**
 
 [![Linkedin: Ruan Heleno](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ruanheleno/)](https://www.linkedin.com/in/ruanheleno/)
 <!-- Changed skill icon to a more standard/professional badge -->
-[![Instagram: Ruan Heleno](https://img.shields.io/badge/-Instagram-c13584?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/ruanhelenoof)](https://www.instagram.com/ruanhelenoof)
-<!-- Badge for Instagram too -->
 
 ### ✉️ &nbsp;**Contact me**
 
