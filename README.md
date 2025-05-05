@@ -16,7 +16,7 @@
 
 ### :rocket: &nbsp;**Main Skills**
 
-[![My Skills](https://skillicons.dev/icons?i=python,django,postgresql,redis,docker,git,github,githubactions,nginx,react,typescript,javascript,html,css,mysql,linux,vscode,jira,confluence,postman&perline=7)](https://skillicons.dev/icons?i=python,django,postgresql,redis,docker,git,github,githubactions,nginx,react,typescript,javascript,html,css,mysql,linux,vscode,postman)
+[![My Skills](https://skillicons.dev/icons?i=python,django,postgresql,redis,docker,git,github,githubactions,nginx,react,typescript,javascript,html,css,mysql,linux,vscode,postman&perline=7)](https://skillicons.dev/icons?i=python,django,postgresql,redis,docker,git,github,githubactions,nginx,react,typescript,javascript,html,css,mysql,linux,vscode,postman)
 <!-- Removed Celery as icon might not be available on skillicons.dev -->
 <!-- Pytest doesn't have a standard icon on skillicons.dev, but it's mentioned in the text -->
 
