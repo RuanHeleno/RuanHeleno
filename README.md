@@ -4,12 +4,9 @@
 
 ### :man_technologist: &nbsp;About Me
 
--   🚀 &nbsp; **Tech Lead & Full Stack Developer**, focusing on **Artificial Intelligence** projects.
+-   🚀 &nbsp; **Senior Software Engineer**, focusing on **Artificial Intelligence** projects.
 -   💻 &nbsp; Passionate about **Backend** development with **Python, Django, PostgreSQL**, and building robust environments with **Docker**.
 -   💡 &nbsp; Experienced in **Software Architecture (UML)**, **Automated Testing (Pytest)**, and **CI/CD pipelines (GitHub Actions)**.
--   👨‍💻 &nbsp; Leading development teams, using **Jira** and **Confluence** for management and documentation.
--   🎓 &nbsp; Currently pursuing a **Postgraduate degree in Software Engineering** at Estácio.
--   🔧 &nbsp; Also experienced with **React.js** and **TypeScript** for Frontend development.
 
 ### :rocket: &nbsp;**Main Skills**
 
